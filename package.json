@@ -1,0 +1,23 @@
+{
+  "name": "word-frequency",
+  "version": "0.0.1",
+  "description": "Determine word frequency from text input.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectHammurabi/word-frequency.git"
+  },
+  "keywords": [
+    "word",
+    "frequency"
+  ],
+  "author": "Seth Rhodes <seth@thinkpixbit.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProjectHammurabi/word-frequency/issues"
+  },
+  "homepage": "https://github.com/ProjectHammurabi/word-frequency#readme"
+}
