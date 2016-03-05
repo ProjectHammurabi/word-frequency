@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ProjectHammurabi/word-frequency/issues"
   },
-  "homepage": "https://github.com/ProjectHammurabi/word-frequency#readme"
+  "homepage": "https://github.com/ProjectHammurabi/word-frequency#readme",
+  "devDependencies": {
+    "mocha": "2.4.5"
+  }
 }
