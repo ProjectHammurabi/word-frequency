@@ -4,7 +4,7 @@
   "description": "Determine word frequency from text input.",
   "main": "index.coffee",
   "scripts": {
-    "test": "mocha test.coffee --bail --compilers coffee:coffee-script/register --harmony"
+    "test": "mocha --bail --compilers coffee:coffee-script/register --harmony"
   },
   "repository": {
     "type": "git",
