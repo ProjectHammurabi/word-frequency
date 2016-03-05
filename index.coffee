@@ -6,6 +6,7 @@ module.exports = (input) ->
       .replace /[\,\.]/, ''
       .toLowerCase()
 
+    return undefined if !word.length
     frequency[word] = if frequency[word] != undefined then frequency[word] + 1 else 1
 
   return frequency
